@@ -1,8 +1,4 @@
 <p align="center">
-  <img src=".github/login.png" alt="to-do" />
-</p>
-
-<p align="center">
   <b>Desafio de Segurança.</b>
 </p>
 
